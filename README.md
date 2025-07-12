@@ -2,7 +2,7 @@
 
 This is a work in progress and is intended for graduate level students as a general guide to whatever their specific data needs are. 
 
-## Resources from people better than I at this
+## Resources from people better than I
 Matt Denny and Arthur Spirling have an [excellent article](https://www.cambridge.org/core/journals/political-analysis/article/abs/text-preprocessing-for-unsupervised-learning-why-it-matters-when-it-misleads-and-what-to-do-about-it/AA7D4DE0AA6AB208502515AE3EC6989E) about preprocessing for unsupervised learning, but it is generally a must read in my opinion for anyone diving into text analytics. Matt Denny also has many useful guides on his [website](https://www.mjdenny.com/Text_Processing_In_R.html) including one on preprocessing if you are unable to access the article above. 
 
 For those wondering if text preprocessing is still worth the time given modern transformers introduced in the NLP literature, Marco Siino has a [nice piece](https://www.sciencedirect.com/science/article/pii/S0306437923001783) on exactly this question. He finds that yes, preprocessing still outpreforms transformers and that proper preprocessing actually increases performance. 
